@@ -111,7 +111,7 @@ header{
 
 .shape{
     font-family: "Grey Qo", cursive;
-    font-size: 96px;
+    font-size: 110px;
     padding-left: 5px;
     padding-right: 5px;
     font-weight: 200;
@@ -852,6 +852,7 @@ hr{
     display: none;
    }
 
+
    .icon{
     padding-right: 20px;
    }
@@ -893,6 +894,7 @@ hr{
     display: grid;
     grid-template-columns: 1fr;
     margin: 5px auto;
+    padding: 10px;
    
    }
 
@@ -931,6 +933,9 @@ hr{
     display: grid;
     grid-template-columns: 1fr;
     padding: 0;
+}
+.cart1{
+    padding: 10px;
 }
 
 .img-container{
