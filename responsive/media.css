@@ -563,6 +563,11 @@ table,tr,td{
     /* border: 2px solid red; */
 
  } 
+
+ .text-box h1{
+    color: white;
+    font-size:3rem;
+ }
   .extra-carts{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
