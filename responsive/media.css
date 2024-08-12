@@ -568,6 +568,11 @@ table,tr,td{
     color: white;
     font-size:3rem;
  }
+ .text-box p{
+    color:rgba(255, 255, 255, 0.50) ;
+    font-weight: normal;
+ }
+
   .extra-carts{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
